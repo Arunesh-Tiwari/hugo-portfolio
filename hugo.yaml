@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Arunesh Tiwari
 
 # import hextra as module
 module:
@@ -18,14 +18,17 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: The Playground
       pageRef: /docs
       weight: 1
     - name: About
       pageRef: /about
       weight: 2
+    - name: Projects
+      pageRef: /projects
+      weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      pageRef: /contact
       weight: 3
     - name: Search
       weight: 4
@@ -33,12 +36,12 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/Arunesh-Tiwari"
       params:
         icon: github
     - name: Twitter
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://x.com/aruneshtwts"
       params:
         icon: x-twitter
 
@@ -52,5 +55,5 @@ params:
     displayPoweredBy: true
 
   editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false
+    base: "https://github.com/Arunesh-Tiwari"
