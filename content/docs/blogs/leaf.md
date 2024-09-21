@@ -22,7 +22,20 @@ Step into **The AI Lab**—your gateway to the fascinating world of AI, Machine 
         Read More
     </button>
 </a>
+</div>
 
+#### `Business Analytics 101: Your Essential Guide` 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 100%; box-shadow: 0 6px 12px rgba(0,0,0,0.1);">
+<img src="https://github.com/user-attachments/assets/b370196b-3730-4530-895d-8c1ada37442f" alt="Image" style="width: 100%; border-radius: 10px;">
+<p><strong>Summary:</strong> In 'Business Analytics 101: Your Essential Guide', I dive into the essential role that business analytics plays in driving informed decisions for modern businesses. Just like detectives, business analysts sift through data to uncover key insights that help steer strategies. I break down the responsibilities of a Business Intelligence Analyst, explore the four main types of analytics—descriptive, diagnostic, predictive, and prescriptive—and highlight the importance of effective project management in analytics projects. You'll also find insights on creating a solid project charter and why data literacy is crucial for meaningful, impactful results.</p>
+
+<a href="https://backendbrilliance.hashnode.dev/business-analytics-101-your-essential-guide" style="text-decoration: none;">
+    <button style="background-color: #007bff; color: white; padding: 2px 6px; border: none; border-radius: 5px; cursor: pointer;">
+        Read More
+    </button>
+</a>
 </div>
 
 
